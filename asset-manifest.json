@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/gardeners-club/static/js/main.a3fe02c3.js",
+    "main.js": "/gardeners-club/static/js/main.83ec597a.js",
     "static/js/787.ac13505b.chunk.js": "/gardeners-club/static/js/787.ac13505b.chunk.js",
     "index.html": "/gardeners-club/index.html",
-    "main.a3fe02c3.js.map": "/gardeners-club/static/js/main.a3fe02c3.js.map",
+    "main.83ec597a.js.map": "/gardeners-club/static/js/main.83ec597a.js.map",
     "787.ac13505b.chunk.js.map": "/gardeners-club/static/js/787.ac13505b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a3fe02c3.js"
+    "static/js/main.83ec597a.js"
   ]
 }
